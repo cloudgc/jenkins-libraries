@@ -1,0 +1,3 @@
+https://cleverbuilder.com/articles/jenkins-shared-library/
+
+https://github.com/monodot/pipeline-library-demo
