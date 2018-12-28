@@ -1,5 +1,4 @@
-def demo(){
-
+def call() {
 
     def globalVar = "0"
     pipeline {
