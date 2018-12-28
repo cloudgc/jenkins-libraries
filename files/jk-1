@@ -1,0 +1,9 @@
+def z = new org.foo.Zot()
+z.checkOutFrom("Demo-project")
+
+
+@Library('log')_
+
+log.info 'Starting'
+log.warning 'Nothing to do!'
+
